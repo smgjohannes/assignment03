@@ -1,0 +1,9 @@
+[[ballerina.auth.users]]
+username="johannes"
+password="johannes@nust.com.na"
+scopes=["HoD"]
+
+[[ballerina.auth.users]]
+username="kennedy"
+password="kennedy@nust.com.na"
+scopes=["admin"]
